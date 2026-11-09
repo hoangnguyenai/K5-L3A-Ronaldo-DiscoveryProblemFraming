@@ -18,7 +18,7 @@
 
 | # | Người đưa ra | Candidate (Job Story ngắn) | Actor | Bottleneck | Câu hỏi phản biện nhận được (ai hỏi) |
 |---:|---|---|---|---|---|
-| 1 | | | | | |
+| 1 |Nguyễn Tiến Khoa | Khi chuẩn bị nộp bài tập lớn/lab lúc sát deadline (22h–23h), tôi muốn đối chiếu nhanh toàn bộ file sản phẩm với rubric và checklist quy định (tên file, cấu trúc thư mục, tiêu chí đủ), để không bị mất điểm oan do sai quy cách format hay thiếu mục bắt buộc|Sinh viên nộp bài, nhóm trưởng, trợ giảng (TA) chấm bài |Liệu có kiểm tra được chất lượng ngữ nghĩa nội dung các mục hay chỉ check được tên file và placeholder? | |
 | 2 | | | | | |
 | 3 | | | | | |
 | 4 | | | | | |
