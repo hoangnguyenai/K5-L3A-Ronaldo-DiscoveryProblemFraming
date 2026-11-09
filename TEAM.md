@@ -13,7 +13,7 @@
 | STT | Họ và tên | MSSV | Vai trò trong nhóm | Tài khoản GitHub |
 |---:|---|---|---|---|
 | 1 | Nguyễn Lâm Hoàng | 2A202603448 | Nhóm trưởng (chủ repo fork) | hoangnguyenai |
-| 2 | Thiên Đức Trung | 2A202603449 | Thành viên | DucTrung611 |
+| 2 | Thân Đức Trung | 2A202603449 | Thành viên | DucTrung611 |
 | 3 | Nguyễn Tiến Khoa | 2A202603460 | Thành viên | llkhoa |
 | 4 | Vũ Xuân Trường | 2A202603433 | Thành viên | TruongXuan-Vu |
 
@@ -86,7 +86,7 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 
 - *(tự điền sau buổi nhóm)*
 
-### ThienDucTrung-2A202603449
+### ThanDucTrung-2A202603449
 
 **Phần việc phụ trách:**
 
@@ -104,7 +104,7 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 
 **Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
 
-- `report/individual/2A202603449_ThienDucTrung.md` mục 2–3; dòng 7–9 bảng pitch trong `group_report.md` mục 2.1.
+- `report/individual/2A202603449_ThanDucTrung.md` mục 2–3; dòng 7–9 bảng pitch trong `group_report.md` mục 2.1.
 
 **Điều mình học được từ phần nhóm:**
 
