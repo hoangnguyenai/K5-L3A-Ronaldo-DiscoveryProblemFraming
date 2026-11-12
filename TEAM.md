@@ -4,15 +4,16 @@
 
 ## Thông tin nhóm
 
-- Tên nhóm:
-- Candidate problem nhóm chọn (1 câu):
-- Quyết định cuối (Go / Not Yet / No-Go):
+- Tên nhóm: ronaldo
+- Hướng phát triển: Giảm thời gian từ yêu cầu tính tiền đến nhận bill tại quán bia đông khách.
+- Candidate problem nhóm chọn (1 câu): Chờ thảo luận CP3.
+- Đánh giá trong bản phân tích: No AI, Not Yet đối với triển khai tại quán; chưa có xác nhận tập thể.
 
 ## Thành viên
 
 | STT | Họ và tên | MSSV | Vai trò trong nhóm | Tài khoản GitHub |
 |---:|---|---|---|---|
-| 1 | | | | |
+| 1 | Nguyễn Lâm Hoàng | 2A202603448 | Đề xuất hướng và cung cấp trải nghiệm; chưa xác nhận phân công chính thức | Chưa xác nhận |
 | 2 | | | | |
 | 3 | | | | |
 | 4 | | | | |
@@ -37,20 +38,18 @@ Gợi ý vai trò (một người có thể giữ nhiều vai): điều phối t
 
 Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `HoVaTen-MSSV`.
 
-### HoVaTen-MSSV
+### NguyenLamHoang-2A202603448
 
-**Phần việc phụ trách:**
+**Đóng góp đã xác nhận trong quá trình chuẩn bị:**
 
--
+- Cung cấp 5 trải nghiệm cá nhân cho CP1.
+- Bổ sung tình huống tại quán bia: 9 người, khoảng 19h30 tối thứ Bảy, gọi nhắc và chờ bill.
+- Chọn hướng chờ thanh toán sau khi cân nhắc các ý tưởng khác.
 
-**Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
+**Bằng chứng:** nội dung nguồn ở [ghi chép trải nghiệm](report/assets/cp1-trai-nghiem-goc.md) và [báo cáo cá nhân](report/individual/2A202603448_NguyenLamHoang.md). Bản phân tích, sơ đồ, research và mô phỏng có AI hỗ trợ; chưa ghi nhận thảo luận tập thể hoặc phỏng vấn.
 
--
+**Phần việc được nhóm phân công:** chưa cung cấp.
 
-**Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
+**Điều học được từ phần nhóm:** học viên tự bổ sung sau hoạt động thực tế.
 
--
-
-**Điều mình học được từ phần nhóm:**
-
--
+Các thành viên khác bổ sung thông tin, vai trò và đóng góp của chính mình; hiện chưa có dữ liệu để điền.
